@@ -1,0 +1,18 @@
+*{
+    margin:0;
+
+}
+
+#divR1 {
+    display: inline-block;
+}
+#imgR1{
+    visibility: hidden;
+}
+
+#divR2 {
+    display: inline-block;
+}
+#imgR2{
+    visibility: hidden;
+}
