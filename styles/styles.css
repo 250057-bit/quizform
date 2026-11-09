@@ -3,6 +3,13 @@
 
 }
 
+fieldset {
+    height: auto;
+    padding: 15px; 
+    margin-bottom: 20px;
+}
+
+
 #divR1 {
     display: inline-block;
 }
@@ -14,5 +21,26 @@
     display: inline-block;
 }
 #imgR2{
+    visibility: hidden;
+}
+
+#divR3 {
+    display: inline-block;
+}
+#imgR3{
+    visibility: hidden;
+}
+
+#divR4 {
+    display: inline-block;
+}
+#imgR4{
+    visibility: hidden;
+}
+
+#divR5 {
+    display: inline-block;
+}
+#imgR5{
     visibility: hidden;
 }
